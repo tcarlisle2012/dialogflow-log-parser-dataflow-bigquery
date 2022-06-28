@@ -1,11 +1,11 @@
 # Development Setup
 
 To develop/test you need:
-- Python 3 installed
+- Python3 installed
 - pip3 installed
 - apache beam installed through pip
 
-## Install Pythong/Pip
+## Install Python & Pip
 
 Note: If on a mac, installing through Home Brew is generally considered the best way:
 [Python Home Brew](https://formulae.brew.sh/formula/python@3.9)
